@@ -3,7 +3,7 @@
     "short_name": "StremioService",
     "description": "Manages the Stremio Service while browsing web.stremio.com",
     "manifest_version": 3,
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icons": {
         "16": "icons/16.png",
         "32": "icons/32.png",
@@ -12,7 +12,7 @@
         "128": "icons/128.png"
     },
 
-    "browser_action": {
+    "action": {
         "default_title": "Go to web.stremio.com"
     },
 
